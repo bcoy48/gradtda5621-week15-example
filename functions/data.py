@@ -1,4 +1,5 @@
 import os
+import re
 from Bio import File
 from Bio import SeqIO
 
